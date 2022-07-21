@@ -1,0 +1,1 @@
+{"version":3,"file":"css/21.e2c2234b.css","mappings":"AACA;EACE;EACA;EACA;AAAF,C","sources":["webpack://CUBANIZA/./src/components/Home/CaracteristicasComponent.vue"],"sourcesContent":["\n.my-card\n  width: 100%\n  max-width: 400px\n  box-shadow: 3px 3px 3px 1px rgb(222,222,222)\n"],"names":[],"sourceRoot":""}
